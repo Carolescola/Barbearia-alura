@@ -2,6 +2,10 @@ body {
     background: #CCCCCC; 
 }
 
+#banner{
+    widht: 100%;
+}
+
 h1 {
     text-align: center;
     color:aqua;
@@ -18,4 +22,8 @@ p{
 
 em strong {
     color: blue;
+}
+
+.itens {
+    font-style: italic;
 }
